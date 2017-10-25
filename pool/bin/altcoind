@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Load properties
+. $(dirname $(readlink -f $0))/../conf/altmine.conf
+
+# Start the process
+/var/altmine/pool/bin/${NETWORK}d -server -conf=/var/altmine/pool/conf/${NETWORK}.conf -datadir=/var/altmine/pool/data/${NETWORK}/ -port=${P2P_PORT} -rpcport=${RPC_PORT}  & 
+

@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# Load properties
+. $(dirname $(readlink -f $0))/../conf/altmine.conf
+
+# Start the P2Pool process
+screen -dmS p2pool python /var/altmine/pool/src/p2pool/run_p2pool.py --net $NETWORK --address $PAYOUT_ADDRESS --fee $FEE --give-author 0 --max-conns 30 --outgoing-conns 10 --datadir /var/altmine/pool/data/p2pool/ --p2pool-port $P2POOL_PORT --worker-port $WORKER_PORT --bitcoind-rpc-port $RPC_PORT --bitcoind-p2p-port $P2P_PORT $RPC_USERNAME $RPC_PASSWORD > /dev/null
+
+#python /var/altmine/pool/src/p2pool/run_p2pool.py --net $NETWORK --address $PAYOUT_ADDRESS --fee $FEE --give-author 0 --max-conns 30 --outgoing-conns 10 --datadir /var/altmine/pool/data/p2pool/ --p2pool-port $P2POOL_PORT --worker-port $WORKER_PORT --bitcoind-rpc-port $RPC_PORT --bitcoind-p2p-port $P2P_PORT $RPC_USERNAME $RPC_PASSWORD

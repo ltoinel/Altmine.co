@@ -1,0 +1,327 @@
+2017-10-25 22:31:27.657005 > ########################################
+2017-10-25 22:31:27.657201 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:31:27.657293 > ########################################
+2017-10-25 22:31:30.724932 > ########################################
+2017-10-25 22:31:30.725102 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:31:30.725194 > ########################################
+2017-10-25 22:31:30.759405 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:31:30.770612 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:31:33.729829 > ########################################
+2017-10-25 22:31:33.730001 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:31:33.730093 > ########################################
+2017-10-25 22:31:33.730181 > ########################################
+2017-10-25 22:31:33.730270 > >>> Warning: LOST CONTACT WITH BITCOIND for 1.0 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:31:33.730358 > ########################################
+2017-10-25 22:31:35.781392 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:31:35.792573 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:31:36.735106 > ########################################
+2017-10-25 22:31:36.735305 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:31:36.735400 > ########################################
+2017-10-25 22:31:36.735489 > ########################################
+2017-10-25 22:31:36.735580 > >>> Warning: LOST CONTACT WITH BITCOIND for 1.1 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:31:36.735671 > ########################################
+2017-10-25 22:31:39.740337 > ########################################
+2017-10-25 22:31:39.740514 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:31:39.740610 > ########################################
+2017-10-25 22:31:39.740701 > ########################################
+2017-10-25 22:31:39.740791 > >>> Warning: LOST CONTACT WITH BITCOIND for 1.1 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:31:39.740881 > ########################################
+2017-10-25 22:31:39.740971 P2Pool: 25936 shares in chain (25941 verified/25941 total) Peers: 0 (0 incoming)
+2017-10-25 22:31:39.741037  Local: 0H/s in last 10.0 minutes Local dead on arrival: ??? Expected time to share: ???
+2017-10-25 22:31:39.741100  Shares: 14807 (201 orphan, 5824 dead) Stale rate: ~40.7% (39-42%) Efficiency: ~118.6% (117-121%) Current payout: (0.0000)=0.0000 LTC
+2017-10-25 22:31:39.741181  Pool: 1702kH/s Stale rate: 50.0% Expected time to block: 81.6 years
+2017-10-25 22:31:40.803905 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:31:40.815020 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:31:42.818304 > ########################################
+2017-10-25 22:31:42.818475 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:31:42.818566 > ########################################
+2017-10-25 22:31:42.818655 > ########################################
+2017-10-25 22:31:42.818744 > >>> Warning: LOST CONTACT WITH BITCOIND for 1.2 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:31:42.818834 > ########################################
+2017-10-25 22:31:45.825820 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:31:45.836993 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:31:45.842412 > ########################################
+2017-10-25 22:31:45.842579 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:31:45.842670 > ########################################
+2017-10-25 22:31:45.842758 > ########################################
+2017-10-25 22:31:45.842847 > >>> Warning: LOST CONTACT WITH BITCOIND for 1.2 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:31:45.842936 > ########################################
+2017-10-25 22:31:48.847757 > ########################################
+2017-10-25 22:31:48.847929 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:31:48.848020 > ########################################
+2017-10-25 22:31:48.848109 > ########################################
+2017-10-25 22:31:48.848198 > >>> Warning: LOST CONTACT WITH BITCOIND for 1.3 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:31:48.848288 > ########################################
+2017-10-25 22:31:50.847981 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:31:50.859194 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:31:51.853111 > ########################################
+2017-10-25 22:31:51.853283 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:31:51.853374 > ########################################
+2017-10-25 22:31:51.853463 > ########################################
+2017-10-25 22:31:51.853552 > >>> Warning: LOST CONTACT WITH BITCOIND for 1.3 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:31:51.853642 > ########################################
+2017-10-25 22:31:54.858240 > ########################################
+2017-10-25 22:31:54.858412 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:31:54.858505 > ########################################
+2017-10-25 22:31:54.858596 > ########################################
+2017-10-25 22:31:54.858687 > >>> Warning: LOST CONTACT WITH BITCOIND for 1.4 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:31:54.858777 > ########################################
+2017-10-25 22:31:54.858875 P2Pool: 25936 shares in chain (25941 verified/25941 total) Peers: 0 (0 incoming)
+2017-10-25 22:31:54.858940  Local: 0H/s in last 10.0 minutes Local dead on arrival: ??? Expected time to share: ???
+2017-10-25 22:31:54.859004  Shares: 14807 (201 orphan, 5824 dead) Stale rate: ~40.7% (39-42%) Efficiency: ~118.6% (117-121%) Current payout: (0.0000)=0.0000 LTC
+2017-10-25 22:31:54.859106  Pool: 1702kH/s Stale rate: 50.0% Expected time to block: 81.6 years
+2017-10-25 22:31:55.870062 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:31:55.881236 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:31:57.897528 > ########################################
+2017-10-25 22:31:57.897700 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:31:57.897791 > ########################################
+2017-10-25 22:31:57.897880 > ########################################
+2017-10-25 22:31:57.897970 > >>> Warning: LOST CONTACT WITH BITCOIND for 1.4 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:31:57.898060 > ########################################
+2017-10-25 22:32:00.891953 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:32:00.903097 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:32:00.919447 > ########################################
+2017-10-25 22:32:00.919613 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:32:00.919705 > ########################################
+2017-10-25 22:32:00.919794 > ########################################
+2017-10-25 22:32:00.919884 > >>> Warning: LOST CONTACT WITH BITCOIND for 1.5 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:32:00.919974 > ########################################
+2017-10-25 22:32:03.924815 > ########################################
+2017-10-25 22:32:03.924988 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:32:03.925078 > ########################################
+2017-10-25 22:32:03.925167 > ########################################
+2017-10-25 22:32:03.925257 > >>> Warning: LOST CONTACT WITH BITCOIND for 1.5 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:32:03.925347 > ########################################
+2017-10-25 22:32:05.914006 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:32:05.925291 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:32:06.930139 > ########################################
+2017-10-25 22:32:06.930310 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:32:06.930402 > ########################################
+2017-10-25 22:32:06.930491 > ########################################
+2017-10-25 22:32:06.930581 > >>> Warning: LOST CONTACT WITH BITCOIND for 1.6 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:32:06.930672 > ########################################
+2017-10-25 22:32:07.911127 Handshake timed out, disconnecting from 176.56.236.116:9338
+2017-10-25 22:32:09.935436 > ########################################
+2017-10-25 22:32:09.935609 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:32:09.935706 > ########################################
+2017-10-25 22:32:09.935818 > ########################################
+2017-10-25 22:32:09.935908 > >>> Warning: LOST CONTACT WITH BITCOIND for 1.6 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:32:09.935999 > ########################################
+2017-10-25 22:32:09.936094 P2Pool: 25936 shares in chain (25941 verified/25941 total) Peers: 0 (0 incoming)
+2017-10-25 22:32:09.936158  Local: 0H/s in last 10.0 minutes Local dead on arrival: ??? Expected time to share: ???
+2017-10-25 22:32:09.936222  Shares: 14807 (201 orphan, 5824 dead) Stale rate: ~40.7% (39-42%) Efficiency: ~118.6% (117-121%) Current payout: (0.0000)=0.0000 LTC
+2017-10-25 22:32:09.936302  Pool: 1702kH/s Stale rate: 50.0% Expected time to block: 81.6 years
+2017-10-25 22:32:10.936040 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:32:10.947180 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:32:12.941445 > ########################################
+2017-10-25 22:32:12.941620 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:32:12.941712 > ########################################
+2017-10-25 22:32:12.941799 > ########################################
+2017-10-25 22:32:12.941888 > >>> Warning: LOST CONTACT WITH BITCOIND for 1.7 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:32:12.941978 > ########################################
+2017-10-25 22:32:15.946638 > ########################################
+2017-10-25 22:32:15.946824 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:32:15.946919 > ########################################
+2017-10-25 22:32:15.947011 > ########################################
+2017-10-25 22:32:15.947102 > >>> Warning: LOST CONTACT WITH BITCOIND for 1.8 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:32:15.947211 > ########################################
+2017-10-25 22:32:15.957963 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:32:15.969209 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:32:18.951967 > ########################################
+2017-10-25 22:32:18.952139 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:32:18.952233 > ########################################
+2017-10-25 22:32:18.952324 > ########################################
+2017-10-25 22:32:18.952414 > >>> Warning: LOST CONTACT WITH BITCOIND for 1.8 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:32:18.952504 > ########################################
+2017-10-25 22:32:21.027836 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:32:21.039100 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:32:21.957161 > ########################################
+2017-10-25 22:32:21.957336 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:32:21.957449 > ########################################
+2017-10-25 22:32:21.957539 > ########################################
+2017-10-25 22:32:21.957628 > >>> Warning: LOST CONTACT WITH BITCOIND for 1.9 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:32:21.957717 > ########################################
+2017-10-25 22:32:24.962348 > ########################################
+2017-10-25 22:32:24.962529 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:32:24.962623 > ########################################
+2017-10-25 22:32:24.962712 > ########################################
+2017-10-25 22:32:24.962802 > >>> Warning: LOST CONTACT WITH BITCOIND for 1.9 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:32:24.962893 > ########################################
+2017-10-25 22:32:24.962992 P2Pool: 25936 shares in chain (25941 verified/25941 total) Peers: 0 (0 incoming)
+2017-10-25 22:32:24.963056  Local: 0H/s in last 10.0 minutes Local dead on arrival: ??? Expected time to share: ???
+2017-10-25 22:32:24.963120  Shares: 14807 (201 orphan, 5824 dead) Stale rate: ~40.7% (39-42%) Efficiency: ~118.6% (117-121%) Current payout: (0.0000)=0.0000 LTC
+2017-10-25 22:32:24.963221  Pool: 1702kH/s Stale rate: 50.0% Expected time to block: 81.6 years
+2017-10-25 22:32:26.049853 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:32:26.061074 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:32:27.967863 > ########################################
+2017-10-25 22:32:27.968033 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:32:27.968125 > ########################################
+2017-10-25 22:32:27.968214 > ########################################
+2017-10-25 22:32:27.968304 > >>> Warning: LOST CONTACT WITH BITCOIND for 2.0 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:32:27.968393 > ########################################
+2017-10-25 22:32:31.050847 > ########################################
+2017-10-25 22:32:31.051027 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:32:31.051120 > ########################################
+2017-10-25 22:32:31.051235 > ########################################
+2017-10-25 22:32:31.051325 > >>> Warning: LOST CONTACT WITH BITCOIND for 2.0 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:32:31.051415 > ########################################
+2017-10-25 22:32:31.071832 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:32:31.083024 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:32:34.056275 > ########################################
+2017-10-25 22:32:34.056449 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:32:34.056541 > ########################################
+2017-10-25 22:32:34.056631 > ########################################
+2017-10-25 22:32:34.056721 > >>> Warning: LOST CONTACT WITH BITCOIND for 2.1 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:32:34.056811 > ########################################
+2017-10-25 22:32:36.093793 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:32:36.105042 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:32:37.061395 > ########################################
+2017-10-25 22:32:37.061588 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:32:37.063378 > ########################################
+2017-10-25 22:32:37.063518 > ########################################
+2017-10-25 22:32:37.063646 > >>> Warning: LOST CONTACT WITH BITCOIND for 2.1 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:32:37.063766 > ########################################
+2017-10-25 22:32:40.068473 > ########################################
+2017-10-25 22:32:40.068647 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:32:40.068739 > ########################################
+2017-10-25 22:32:40.068827 > ########################################
+2017-10-25 22:32:40.068916 > >>> Warning: LOST CONTACT WITH BITCOIND for 2.2 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:32:40.069006 > ########################################
+2017-10-25 22:32:40.069107 P2Pool: 25936 shares in chain (25941 verified/25941 total) Peers: 0 (0 incoming)
+2017-10-25 22:32:40.069171  Local: 0H/s in last 10.0 minutes Local dead on arrival: ??? Expected time to share: ???
+2017-10-25 22:32:40.069234  Shares: 14807 (201 orphan, 5824 dead) Stale rate: ~40.7% (39-42%) Efficiency: ~118.6% (117-121%) Current payout: (0.0000)=0.0000 LTC
+2017-10-25 22:32:40.069313  Pool: 1702kH/s Stale rate: 50.0% Expected time to block: 81.6 years
+2017-10-25 22:32:41.115903 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:32:41.127074 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:32:43.073928 > ########################################
+2017-10-25 22:32:43.074101 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:32:43.074193 > ########################################
+2017-10-25 22:32:43.074281 > ########################################
+2017-10-25 22:32:43.074370 > >>> Warning: LOST CONTACT WITH BITCOIND for 2.2 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:32:43.074459 > ########################################
+2017-10-25 22:32:43.602809 Handshake timed out, disconnecting from 176.56.236.116:9338
+2017-10-25 22:32:46.079093 > ########################################
+2017-10-25 22:32:46.079294 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:32:46.079389 > ########################################
+2017-10-25 22:32:46.079478 > ########################################
+2017-10-25 22:32:46.079569 > >>> Warning: LOST CONTACT WITH BITCOIND for 2.3 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:32:46.079659 > ########################################
+2017-10-25 22:32:46.137916 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:32:46.149085 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:32:49.084381 > ########################################
+2017-10-25 22:32:49.084555 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:32:49.084644 > ########################################
+2017-10-25 22:32:49.084733 > ########################################
+2017-10-25 22:32:49.084821 > >>> Warning: LOST CONTACT WITH BITCOIND for 2.3 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:32:49.084910 > ########################################
+2017-10-25 22:32:51.159902 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:32:51.171100 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:32:52.089628 > ########################################
+2017-10-25 22:32:52.089799 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:32:52.089892 > ########################################
+2017-10-25 22:32:52.089981 > ########################################
+2017-10-25 22:32:52.090071 > >>> Warning: LOST CONTACT WITH BITCOIND for 2.4 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:32:52.090161 > ########################################
+2017-10-25 22:32:53.706475 Peer 163.172.58.13:41720 misbehaving, will drop and ban. Reason: was connected to self
+2017-10-25 22:32:53.706660 Bad peer banned: ('163.172.58.13', 41720)
+2017-10-25 22:32:53.708045 Peer 163.172.58.13:9338 misbehaving, will drop and ban. Reason: was connected to self
+2017-10-25 22:32:53.708214 Bad peer banned: ('163.172.58.13', 9338)
+2017-10-25 22:32:55.094846 > ########################################
+2017-10-25 22:32:55.095017 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:32:55.095109 > ########################################
+2017-10-25 22:32:55.095231 > ########################################
+2017-10-25 22:32:55.095320 > >>> Warning: LOST CONTACT WITH BITCOIND for 2.4 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:32:55.095409 > ########################################
+2017-10-25 22:32:55.095505 P2Pool: 25936 shares in chain (25941 verified/25941 total) Peers: 0 (0 incoming)
+2017-10-25 22:32:55.095569  Local: 0H/s in last 10.0 minutes Local dead on arrival: ??? Expected time to share: ???
+2017-10-25 22:32:55.095632  Shares: 14807 (201 orphan, 5824 dead) Stale rate: ~40.7% (39-42%) Efficiency: ~118.6% (117-121%) Current payout: (0.0000)=0.0000 LTC
+2017-10-25 22:32:55.095709  Pool: 1702kH/s Stale rate: 50.0% Expected time to block: 81.6 years
+2017-10-25 22:32:56.181901 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:32:56.193131 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:32:58.100431 > ########################################
+2017-10-25 22:32:58.100604 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:32:58.100696 > ########################################
+2017-10-25 22:32:58.100785 > ########################################
+2017-10-25 22:32:58.100875 > >>> Warning: LOST CONTACT WITH BITCOIND for 2.5 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:32:58.100965 > ########################################
+2017-10-25 22:33:01.138626 > ########################################
+2017-10-25 22:33:01.138806 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:33:01.138899 > ########################################
+2017-10-25 22:33:01.138988 > ########################################
+2017-10-25 22:33:01.139079 > >>> Warning: LOST CONTACT WITH BITCOIND for 2.5 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:33:01.139195 > ########################################
+2017-10-25 22:33:01.203867 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:33:01.215025 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:33:04.143825 > ########################################
+2017-10-25 22:33:04.143997 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:33:04.144091 > ########################################
+2017-10-25 22:33:04.144181 > ########################################
+2017-10-25 22:33:04.144270 > >>> Warning: LOST CONTACT WITH BITCOIND for 2.6 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:33:04.144360 > ########################################
+2017-10-25 22:33:06.225711 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:33:06.236789 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:33:07.148961 > ########################################
+2017-10-25 22:33:07.149132 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:33:07.149225 > ########################################
+2017-10-25 22:33:07.149314 > ########################################
+2017-10-25 22:33:07.149406 > >>> Warning: LOST CONTACT WITH BITCOIND for 2.6 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:33:07.149496 > ########################################
+2017-10-25 22:33:10.154076 > ########################################
+2017-10-25 22:33:10.154251 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:33:10.154344 > ########################################
+2017-10-25 22:33:10.154434 > ########################################
+2017-10-25 22:33:10.154525 > >>> Warning: LOST CONTACT WITH BITCOIND for 2.7 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:33:10.154615 > ########################################
+2017-10-25 22:33:10.154710 P2Pool: 25936 shares in chain (25941 verified/25941 total) Peers: 0 (0 incoming)
+2017-10-25 22:33:10.154775  Local: 0H/s in last 10.0 minutes Local dead on arrival: ??? Expected time to share: ???
+2017-10-25 22:33:10.154839  Shares: 14807 (201 orphan, 5824 dead) Stale rate: ~40.7% (39-42%) Efficiency: ~118.6% (117-121%) Current payout: (0.0000)=0.0000 LTC
+2017-10-25 22:33:10.154919  Pool: 1702kH/s Stale rate: 50.0% Expected time to block: 81.6 years
+2017-10-25 22:33:11.247561 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:33:11.258695 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:33:13.159503 > ########################################
+2017-10-25 22:33:13.159673 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:33:13.159764 > ########################################
+2017-10-25 22:33:13.159853 > ########################################
+2017-10-25 22:33:13.159942 > >>> Warning: LOST CONTACT WITH BITCOIND for 2.7 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:33:13.160032 > ########################################
+2017-10-25 22:33:16.023480 Handshake timed out, disconnecting from 176.56.236.116:9338
+2017-10-25 22:33:16.164741 > ########################################
+2017-10-25 22:33:16.164906 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:33:16.164999 > ########################################
+2017-10-25 22:33:16.165087 > ########################################
+2017-10-25 22:33:16.165176 > >>> Warning: LOST CONTACT WITH BITCOIND for 2.8 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:33:16.165265 > ########################################
+2017-10-25 22:33:16.269488 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:33:16.280679 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:33:19.170035 > ########################################
+2017-10-25 22:33:19.170211 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:33:19.170302 > ########################################
+2017-10-25 22:33:19.170391 > ########################################
+2017-10-25 22:33:19.170480 > >>> Warning: LOST CONTACT WITH BITCOIND for 2.8 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:33:19.170570 > ########################################
+2017-10-25 22:33:21.291433 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:33:21.302655 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:33:22.175337 > ########################################
+2017-10-25 22:33:22.175503 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:33:22.175596 > ########################################
+2017-10-25 22:33:22.175685 > ########################################
+2017-10-25 22:33:22.175774 > >>> Warning: LOST CONTACT WITH BITCOIND for 2.9 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:33:22.175865 > ########################################
+2017-10-25 22:33:25.180566 > ########################################
+2017-10-25 22:33:25.180744 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:33:25.180836 > ########################################
+2017-10-25 22:33:25.180927 > ########################################
+2017-10-25 22:33:25.181016 > >>> Warning: LOST CONTACT WITH BITCOIND for 2.9 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:33:25.181106 > ########################################
+2017-10-25 22:33:25.181206 P2Pool: 25936 shares in chain (25941 verified/25941 total) Peers: 0 (0 incoming)
+2017-10-25 22:33:25.181271  Local: 0H/s in last 10.0 minutes Local dead on arrival: ??? Expected time to share: ???
+2017-10-25 22:33:25.181334  Shares: 14807 (201 orphan, 5824 dead) Stale rate: ~40.7% (39-42%) Efficiency: ~118.6% (117-121%) Current payout: (0.0000)=0.0000 LTC
+2017-10-25 22:33:25.181434  Pool: 1702kH/s Stale rate: 50.0% Expected time to block: 81.6 years
+2017-10-25 22:33:26.313507 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:33:26.324764 Punishing share for 'Block-stale detected! height(9056c84ebfe9051900e50e5bbd33bbb6a142ec22c9d3417a2ff63a5f0411ced7) < height(3bea5d2fd642b4501550a94a11c875d3494271e8a6fd5993ace59d0a277082d5) or 1a10701b != 1a10701b'! Jumping from 732e96c6 to d04811fe!
+2017-10-25 22:33:28.186473 > ########################################
+2017-10-25 22:33:28.186646 > >>> Warning: (from bitcoind) URGENT: Alert key compromised, upgrade required
+2017-10-25 22:33:28.186738 > ########################################
+2017-10-25 22:33:28.186828 > ########################################
+2017-10-25 22:33:28.186917 > >>> Warning: LOST CONTACT WITH BITCOIND for 3.0 minutes! Check that it isn't frozen or dead!
+2017-10-25 22:33:28.187008 > ########################################
