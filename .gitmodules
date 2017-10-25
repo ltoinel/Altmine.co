@@ -1,9 +1,0 @@
-[submodule "pool/src/litecoin"]
-	path = pool/src/litecoin
-	url = https://github.com/litecoin-project/litecoin.git
-[submodule "pool/src/p2pool"]
-	path = pool/src/p2pool
-	url = git@codingartist.fr:p2pool.git
-[submodule "pool/src/dogecoin"]
-	path = pool/src/dogecoin
-	url = https://github.com/dogecoin/dogecoin.git
